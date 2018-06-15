@@ -1,0 +1,30 @@
+
+plugin.tx_fechangelog_log {
+	view {
+		# cat=plugin.tx_fechangelog_log/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:fechangelog/Resources/Private/Templates/
+		# cat=plugin.tx_fechangelog_log/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:fechangelog/Resources/Private/Partials/
+		# cat=plugin.tx_fechangelog_log/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:fechangelog/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_fechangelog_log//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}
+
+module.tx_fechangelog_changelog {
+	view {
+		# cat=module.tx_fechangelog_changelog/file; type=string; label=Path to template root (BE)
+		templateRootPath = EXT:fechangelog/Resources/Private/Backend/Templates/
+		# cat=module.tx_fechangelog_changelog/file; type=string; label=Path to template partials (BE)
+		partialRootPath = EXT:fechangelog/Resources/Private/Backend/Partials/
+		# cat=module.tx_fechangelog_changelog/file; type=string; label=Path to template layouts (BE)
+		layoutRootPath = EXT:fechangelog/Resources/Private/Backend/Layouts/
+	}
+	persistence {
+		# cat=module.tx_fechangelog_changelog//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-02-08T08:53:16Z" product-name="fechangelog">
+		<header/>
+		<body>
+			<trans-unit id="table_name.description">
+				<source>tableName</source>
+			</trans-unit>
+			<trans-unit id="record_uid.description">
+				<source>recordUid</source>
+			</trans-unit>
+			<trans-unit id="field_name.description">
+				<source>fieldName</source>
+			</trans-unit>
+			<trans-unit id="field_type.description">
+				<source>fieldType</source>
+			</trans-unit>
+			<trans-unit id="action.description">
+				<source>action</source>
+			</trans-unit>
+			<trans-unit id="old_string.description">
+				<source>oldString</source>
+			</trans-unit>
+			<trans-unit id="new_string.description">
+				<source>newString</source>
+			</trans-unit>
+			<trans-unit id="old_text.description">
+				<source>oldText</source>
+			</trans-unit>
+			<trans-unit id="new_text.description">
+				<source>newText</source>
+			</trans-unit>
+			<trans-unit id="feuser.description">
+				<source>feuser</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

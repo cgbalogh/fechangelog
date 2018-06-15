@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-02-08T08:53:16Z" product-name="fechangelog">
+		<header/>
+		<body>
+			<trans-unit id="tx_fechangelog_domain_model_log">
+				<source>Log</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.table_name">
+				<source>Table Name</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.record_uid">
+				<source>Record Uid</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.field_name">
+				<source>Field Name</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.field_type">
+				<source>Field Type</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.action">
+				<source>Action</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.old_string">
+				<source>Old String</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.new_string">
+				<source>New String</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.old_text">
+				<source>Old Text</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.new_text">
+				<source>New Text</source>
+			</trans-unit>
+			<trans-unit id="tx_fechangelog_domain_model_log.feuser">
+				<source>Feuser</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
